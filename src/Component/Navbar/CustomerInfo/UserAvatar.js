@@ -22,7 +22,7 @@ function UserAvatar(props) {
   }
   return (
     <Fragment>
-      <Avatar alt="Hoang Thang" src={cumeoImage} onClick={handleClick} />
+      <Avatar alt="LinjaBoss" src={cumeoImage} onClick={handleClick} />
       <Menu open={open} onClose={handleClose} anchorEl={anchorEl}>
         <MenuItem>
           <Avatar src={cumeoImage} />

@@ -16,7 +16,7 @@ function Logo() {
         variant="h3"
         sx={{ display: { md: "block", xs: "none" } }}
       >
-        ThangChiba
+        LinjaBoss
       </StyledTypography>
     </Fragment>
   );

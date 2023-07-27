@@ -25,7 +25,7 @@ const YoutubeTutorial = (props) => {
           width="100%"
           height="100%"
           src="https://www.youtube.com/embed/3vzaH0vUWC8"
-          title="ThangChiba GPT Tutorial"
+          title="LinjaBoss GPT Tutorial"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen

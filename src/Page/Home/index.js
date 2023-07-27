@@ -32,7 +32,7 @@ export default function Home() {
             color="white"
             sx={{ textShadow: "0.5px 0.5px" }}
           >
-            Hoang Van Thang
+            LinjaBoss
           </Typography>
           <Typography
             fontSize={25}
@@ -58,7 +58,7 @@ export default function Home() {
             }}
           >
             <Button
-              href="https://www.facebook.com/kennythang9x"
+              href="https://www."
               startIcon={
                 <FacebookIcon
                   style={{
@@ -87,7 +87,7 @@ export default function Home() {
               {/* YouTube */}
             </Button>
             <Button
-              href="https://github.com/thangchiba"
+              href="https://github.com/LinjaBoss"
               startIcon={
                 <GitHubIcon
                   style={{

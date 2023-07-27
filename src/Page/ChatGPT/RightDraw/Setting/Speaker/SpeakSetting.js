@@ -12,7 +12,7 @@ const SpeakSetting = () => {
   const dispatch = useDispatch();
   const speaker = useSpeak();
   const [testContent, setTestContent] = useState(
-    "I am ThangChiba and I created this application.You can copy and paste this sentence into your text-to-speech application to hear how it sounds with different voices and rates."
+    "I am LinjaBoss and I created this application.You can copy and paste this sentence into your text-to-speech application to hear how it sounds with different voices and rates."
   );
   return (
     <Fragment>

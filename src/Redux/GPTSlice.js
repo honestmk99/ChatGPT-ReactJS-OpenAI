@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const InitialState = {
-  accessToken: "thangchiba",
+  accessToken: "LinjaBoss",
   showAvatar: true,
 };
 
